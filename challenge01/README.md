@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/beforelook.png)
+![](/challenge01/images/beforelook.png)
 
-![](images/Challenge one solution.png)
+![](/challenge01/images/Challenge%20one%20solution.png)
 
 
 

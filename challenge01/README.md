@@ -29,7 +29,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how and when to use different em and rem. I also learned that padding is a good substitute if you want to increase height of a background. 
+I learned how and when to use em and rem. I also learned that padding is a good substitute whilst increasing height of a background. 
 
 ## Author
 

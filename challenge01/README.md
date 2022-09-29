@@ -1,4 +1,5 @@
-##Day one
+## Day one
+
   Day one of conquering responsive layouts
   
 ## Table of contents

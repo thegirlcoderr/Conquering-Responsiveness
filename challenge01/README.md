@@ -1,6 +1,6 @@
-## Day one
+## Challenge one
 
-  Day one of conquering responsive layouts
+Conquering responsive layouts
   
 ## Table of contents
 

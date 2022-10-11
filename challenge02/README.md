@@ -25,9 +25,9 @@ Users should be able to:
 -  Limit the maximum width of the text in the
  *    bottom area.
 
-### Screenshot
+### Screenshot of before and after look of the challenge
 
-![]()
+![](/challenge02/Beforelook.png)
 
 ![]()
 

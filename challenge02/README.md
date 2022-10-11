@@ -30,7 +30,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how parents div's width affects the child div's and how to use max-width.
+I learnt how the width of a parent element can affect its children's dimensions. I also learned how to use the max-width property.
 
 ## Author
 

@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot of before and after look of the challenge
 
-![](/challenge02/Beforelook.png)
+![](challenge02/Beforelook.png)
 
-![]()
+![](challenge02/Afterlook.png)
 
 
 
